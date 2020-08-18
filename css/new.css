@@ -1,0 +1,8 @@
+body{
+    height: auto;
+}
+
+.textarea{
+    width: fit-content;
+    margin: 0 auto;
+}
